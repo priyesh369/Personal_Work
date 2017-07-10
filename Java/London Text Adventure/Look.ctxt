@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=ui\ game
+comment0.target=java.lang.String\ process(GameMain,\ Game)
+comment0.text=\r\n\ Return\ room\ description.\r\n\ @return\ room\ description.\r\n\ Pre-condition\:\ \ game\ is\ not\ null;\r\n
+numComments=1

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Direction(java.lang.String)
+comment0.text=\r\n\ Constructor\ with\ parameter.\r\n\ Pre-condition\:\ name\ is\ not\ null.\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ Return\ the\ direction\ name.\r\n
+numComments=2

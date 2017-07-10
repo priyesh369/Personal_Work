@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=weight
+comment0.target=Item(int)
+comment0.text=\r\n\ Constructor\ with\ parameter.\r\n\ Pre-condition\:\ weight\ is\ not\ null.\r\n
+comment1.params=
+comment1.target=int\ getWeight()
+comment1.text=\r\n\ Return\ the\ item\ weight.\r\n\ @return\ the\ item\ weight\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ the\ item\ name.\r\n\ @return\ the\ item\ name\r\n
+numComments=3

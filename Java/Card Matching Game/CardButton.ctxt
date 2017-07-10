@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CardButton()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CardButton.\r\n
+comment1.params=value
+comment1.target=void\ setValue(int)
+comment1.text=\r\n\ sets\ the\ value\ field\ of\ the\ CardButton\ object.\r\n\ @param\ value\ the\ number\ that\ is\ to\ be\ assigned\ as\ the\ object's\ value.\r\n\ Pre-condition\:\ value\ is\ greater\ than\ -1.\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ returns\ the\ field\ value.\r\n\ @returns\ the\ field\ value.\r\n
+numComments=3

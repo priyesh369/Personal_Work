@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Game\r\n
+comment1.params=
+comment1.target=void\ initializeCardNumbers()
+comment1.text=\r\n\ Populates\ the\ cardNumber\ arraylist\ with\ 2\ of\ each\ number\ from\ 0\ upto\ but\ not\ including\ the\ number\r\n\ of\ pairs.\r\n\ pre-condtion\:\ pairs\ is\ greater\ than\ 0.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getCardNumbers()
+comment2.text=\r\n\ returns\ the\ field\ cardNumbers.\r\n\ @returns\ the\ field\ cardNumbers.\r\n
+comment3.params=
+comment3.target=int\ getScore()
+comment3.text=\r\n\ returns\ the\ field\ score.\r\n\ @returns\ the\ field\ score.\r\n
+comment4.params=
+comment4.target=boolean\ hasWon()
+comment4.text=\r\n\ returns\ true\ if\ score\ equals\ the\ number\ of\ pairs\ and\ flase\ if\ otherwise.\r\n\ @returns\ true\ if\ score\ equals\ the\ number\ of\ pairs\ and\ flase\ if\ otherwise.\r\n
+comment5.params=
+comment5.target=boolean\ attemptPairing()
+comment5.text=\r\n\ Checks\ if\ card\ values\ are\ equal,\ if\ they\ are\ then\ score\ is\ increased\ and\r\n\ card\ values\ are\ reset\ to\ the\ default\ then\ returns\ true.\r\n\ if\ they\ don't\ equal\ then\ card\ values\ are\ reset\ and\ false\ is\ returned\r\n\ @returns\ true\ if\ card\ values\ are\ equal\ and\ flase\ if\ otherwise.\r\n
+comment6.params=value
+comment6.target=boolean\ prepareToPair(int)
+comment6.text=\r\n\ Assigns\ values\ to\ card1value\ and\ card2value\ to\ make\ sure\ they\ are\ ready\r\n\ to\ check\ for\ pairing,\ returns\ true\ if\ assigned\ to\ card1value\ and\ flase\r\n\ if\ assigned\ to\ card2value.\r\n\ @param\ value\ the\ number\ that\ is\ to\ be\ assigned\ to\ the\ suitable\ card\ value\ field.\r\n\ @returns\ returns\ true\ if\ assigned\ to\ card1value\ and\ flase\ if\ assigned\ to\ card2value.\r\n
+comment7.params=
+comment7.target=boolean\ isReadyToPair()
+comment7.text=\r\n\ Checks\ that\ both\ card1Value\ and\ card2Value\ don't\ equal\ the\ default\ card\ value\r\n\ hence\ have\ been\ assigned\ values\ and\ is\ ready\ to\ pair.\ returns\ true\ if\ ready\ and\r\n\ false\ otherwise.\r\n\ @returns\ true\ if\ ready\ to\ pair\ (both\ card\ values\ have\ been\ assigned)\ and\ false\ otherwise.\r\n
+numComments=8

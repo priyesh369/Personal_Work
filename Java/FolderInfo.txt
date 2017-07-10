@@ -1,0 +1,5 @@
+Card Matching Game - Made in blueJ back when first learning about gui in Java, later submitted as
+coursework as the task matched exactly :)
+
+London Text Adventure - blueJ project given by lecturers to be extended apon to make a simple game,
+my work has my name in the author field, their work has their name. (not used as a course assessment).
