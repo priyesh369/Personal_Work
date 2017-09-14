@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\bin\Debug\StringsAndLists.exe.config
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\bin\Debug\StringsAndLists.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\bin\Debug\StringsAndLists.pdb
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\obj\Debug\StringsAndLists.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\obj\Debug\StringsAndLists.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\obj\Debug\StringsAndLists.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\StringsAndListsStuff\StringsAndLists\obj\Debug\StringsAndLists.pdb

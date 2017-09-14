@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\bin\Debug\SayNumber.exe.config
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\bin\Debug\SayNumber.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\bin\Debug\SayNumber.pdb
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\obj\Debug\SayNumber.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\obj\Debug\SayNumber.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\obj\Debug\SayNumber.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\SayNumber\SayNumber\obj\Debug\SayNumber.pdb

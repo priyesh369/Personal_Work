@@ -1,0 +1,9 @@
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\bin\Debug\hangman csharp.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\bin\Debug\hangman csharp.pdb
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman csharp.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman_csharp.Form1.resources
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman_csharp.Properties.Resources.resources
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman csharp.csproj.GenerateResource.Cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman csharp.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman csharp.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Hangman\hangman csharp\obj\x86\Debug\hangman csharp.pdb

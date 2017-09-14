@@ -1,0 +1,15 @@
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\bin\Debug\GUI Tester.exe.config
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\bin\Debug\GUI Tester.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\bin\Debug\GUI Tester.pdb
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\MainWindow.g.cs
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\App.g.cs
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester_MarkupCompile.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester_MarkupCompile.lref
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\MainWindow.baml
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester.g.resources
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI_Tester.Properties.Resources.resources
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester.csproj.GenerateResource.Cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\GUI Tester\GUI Tester\obj\Debug\GUI Tester.pdb

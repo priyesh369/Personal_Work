@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\bin\Debug\nintyninebottles.exe.config
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\bin\Debug\nintyninebottles.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\bin\Debug\nintyninebottles.pdb
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\obj\Debug\nintyninebottles.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\obj\Debug\nintyninebottles.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\obj\Debug\nintyninebottles.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\nintyninebottles\nintyninebottles\obj\Debug\nintyninebottles.pdb

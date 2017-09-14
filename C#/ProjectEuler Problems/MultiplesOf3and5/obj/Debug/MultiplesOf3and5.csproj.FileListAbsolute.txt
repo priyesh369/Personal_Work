@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\bin\Debug\MultiplesOf3and5.exe.config
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\bin\Debug\MultiplesOf3and5.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\bin\Debug\MultiplesOf3and5.pdb
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ProjectEuler Problems\MultiplesOf3and5\obj\Debug\MultiplesOf3and5.pdb

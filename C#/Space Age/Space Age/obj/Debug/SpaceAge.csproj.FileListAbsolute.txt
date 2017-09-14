@@ -1,0 +1,6 @@
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Space Age\Space Age\bin\Debug\Space Age.exe.config
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Space Age\Space Age\bin\Debug\Space Age.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Space Age\Space Age\bin\Debug\Space Age.pdb
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Space Age\Space Age\obj\Debug\SpaceAge.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Space Age\Space Age\obj\Debug\Space Age.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Space Age\Space Age\obj\Debug\Space Age.pdb

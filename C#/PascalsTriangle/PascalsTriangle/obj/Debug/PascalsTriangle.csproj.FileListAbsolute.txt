@@ -1,0 +1,9 @@
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\bin\Debug\PascalsTriangle.exe.config
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\bin\Debug\PascalsTriangle.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\bin\Debug\PascalsTriangle.pdb
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\bin\Debug\MathNet.Numerics.dll
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\bin\Debug\MathNet.Numerics.xml
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\obj\Debug\PascalsTriangle.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\obj\Debug\PascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\obj\Debug\PascalsTriangle.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\PascalsTriangle\PascalsTriangle\obj\Debug\PascalsTriangle.pdb

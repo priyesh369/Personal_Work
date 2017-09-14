@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\bin\Debug\RobotWalkingSimulator.exe.config
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\bin\Debug\RobotWalkingSimulator.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\bin\Debug\RobotWalkingSimulator.pdb
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\obj\Debug\RobotWalkingSimulator.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\obj\Debug\RobotWalkingSimulator.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\obj\Debug\RobotWalkingSimulator.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\RobotWalkingSimulator\RobotWalkingSimulator\obj\Debug\RobotWalkingSimulator.pdb

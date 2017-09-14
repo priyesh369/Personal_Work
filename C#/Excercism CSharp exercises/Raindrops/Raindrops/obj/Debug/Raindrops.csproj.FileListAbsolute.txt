@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\bin\Debug\Raindrops.exe.config
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\bin\Debug\Raindrops.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\bin\Debug\Raindrops.pdb
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\obj\Debug\Raindrops.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\obj\Debug\Raindrops.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\obj\Debug\Raindrops.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\Excercism CSharp exercises\Raindrops\Raindrops\obj\Debug\Raindrops.pdb

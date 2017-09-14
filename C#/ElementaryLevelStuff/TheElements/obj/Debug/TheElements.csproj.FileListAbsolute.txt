@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\bin\Debug\TheElements.exe.config
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\bin\Debug\TheElements.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\bin\Debug\TheElements.pdb
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\obj\Debug\TheElements.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\obj\Debug\TheElements.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\obj\Debug\TheElements.exe
+C:\Users\p-patel\Documents\C# Idle-Time Practice\ElementaryLevelStuff\TheElements\obj\Debug\TheElements.pdb

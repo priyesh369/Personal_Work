@@ -1,0 +1,7 @@
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\bin\Debug\Acronym maker.exe.config
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\bin\Debug\Acronym maker.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\bin\Debug\Acronym maker.pdb
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\obj\Debug\Acronym maker.csprojResolveAssemblyReference.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\obj\Debug\Acronym maker.csproj.CoreCompileInputs.cache
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\obj\Debug\Acronym maker.exe
+C:\Users\p-patel\Documents\Programming Practice\Idle-Time Practice - C#\Acronym maker\Acronym maker\obj\Debug\Acronym maker.pdb
